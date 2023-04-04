@@ -22,6 +22,7 @@ function App() {
           <CssBaseline />
           <Box width="100%" height="100%">
             <Navbar />
+            ';'
             <Toolbar />
             <Container maxWidth="xl">
               <Routes>
